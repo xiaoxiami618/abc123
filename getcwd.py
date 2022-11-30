@@ -8,3 +8,4 @@ Created on Wed Nov 30 19:58:50 2022
 import os
 
 print(os.getcwd())
+print(1)
